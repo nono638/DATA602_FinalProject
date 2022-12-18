@@ -1,0 +1,27 @@
+Instructions to self:
+
+1. Preprocess File
+2. Big Outter Merge
+3. Filter1
+-done in filterbeforeLogic
+4. S̶p̶l̶i̶t̶P̶h̶o̶n̶e̶t̶i̶c̶s̶A̶n̶d̶S̶y̶l̶l̶a̶b̶l̶e̶s̶ Make Columns For Analysis
+5. Make syllables dict
+-Now called Analysis1.py, this file makes a df with the syllables mapped to their specific writings and then provides a function
+to get back the ranked steno writings of a given syllable
+
+6. Guess how words are written based upon syllable dictionary
+
+
+7. Guess how words are written based upon phonetic dictionary
+
+Somewhere handle things where it's more than one stroke but fewer strokes than syllables.  Make a missing information column
+
+8. Check accuracy
+9. Evaluate Errors
+10. Make cleanup functions
+
+
+
+Done TODOs:
+12-7-2022:
+TODO: Make syllables dict, how syllables are written phonetically, if applicable.  Kinda done in algorithm2 possibly
